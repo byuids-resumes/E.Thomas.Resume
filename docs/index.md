@@ -6,6 +6,7 @@ I believe that the defining moments in our lives come as we are faced with the m
 <div id="webaddress">
 <a href="tho20009@byui.edu">tho20009@byui.edu</a>
 | <a href="www.linkedin.com/in/emberlee-thomas/">Linkedin</a>
+</div> | <a href="https://github.com/EmberleeThomas">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
