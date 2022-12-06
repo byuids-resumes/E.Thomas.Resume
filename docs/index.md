@@ -1,89 +1,61 @@
----
-layout: cv
-title: Brigham Young's Resume
----
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+
+# Emberlee Thomas
+
+I believe that the defining moments in our lives come as we are faced with the most difficult of challenges. My life has been filled with defining obstacles;​ through them all I have always had in the back of my head, a voice saying, "Get back up again, there's still more for you to do.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="tho20009@byui.edu">tho20009@byui.edu</a>
+| <a href="www.linkedin.com/in/emberlee-thomas/">Linkedin</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`Spring 2024`\
+__Brigham Young University–Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
+- Interested in Accounting Programming
+- Relevant Courses: Financial and Managerial Accounting, Micro- and Macro- economics, Business Statistics, Introduction to Databases, Data Science Programming
+- BYU-Idaho Grant Scholarship, Federal Pell Grant
+- Minor: Statistics and Computer Programming / Emphasis: Data Science
 
 ## Related Experience
 
-### Internships
+### Financial Accounting Tutor	
+`Sept. 2022 – Present`\
+__Brigham Young University – Idaho__,Rexburg, Idaho
+-	Ensured 20% increase of students’ understanding by explaining topics in easily understood format
+-	Provided a productive learning environment where students can thrive 
+-	Adapted new strategies that encourage learning
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+### House Keeper
+`Feb. 2022 - Apr. 2022`\
+__Marvin Tax Service__,New Plymouth, Idaho
+- •	Provided a clean and organized environment to allow for effective work 
+- •	Assisted in organization of paperwork that increased efficiency 
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+### Student Tutor                                                                                                 
+`Seasonal Fall/Winter 2018-2020`\
+__Weiser School District__,Weiser, Idaho
+- •	Improved 15% understanding of mathematical material by reviewing students’ assignments and teaching in-class subjects
+- •	Adapted to environment changes that were a result of transfer
 
-### Data Science Lead
+### Custodian
+`Seasonal Summer 2017- 2018`\
+__Weiser School District__,Weiser, Idaho
+- •	Increased time efficiency by 20% by arranging a strategy for effective work
+- •	Provided a clean environment for students to learn
+- •	Improved moods of faculty while clearing clutter from their environments 
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+## Skills / Awards
+- Competed in National MOS Certification with Excel 2013 format
+- Also certified in Microsoft Word and Power Point
+- Quick Learner, Works Hard and Efficiently
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: December 2022 -->
