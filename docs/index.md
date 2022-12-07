@@ -1,7 +1,7 @@
 
 # Emberlee Thomas
 
-I believe that the defining moments in our lives come as we are faced with the most difficult of challenges. My life has been filled with defining obstacles;​ through them all I have always had in the back of my head, a voice saying, "Get back up again, there's still more for you to do.
+I believe that the defining moments in our lives come as we are faced with the most difficult of challenges. My life has been filled with defining obstacles;​ through them all I have always had a voice in the back of my head saying, "Get back up again, there's still more for you to do".
 
 <div id="webaddress">
 <a href="tho20009@byui.edu">tho20009@byui.edu</a>
