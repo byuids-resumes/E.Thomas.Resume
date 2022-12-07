@@ -3,11 +3,13 @@
 
 I believe that the defining moments in our lives come as we are faced with the most difficult of challenges. My life has been filled with defining obstacles;​ through them all I have always had a voice in the back of my head saying, "Get back up again, there's still more for you to do".
 
+
 <div id="webaddress">
 <a href="tho20009@byui.edu">tho20009@byui.edu</a>
-| <a href="www.linkedin.com/in/emberlee-thomas/">Linkedin</a>
-</div> | <a href="https://github.com/EmberleeThomas">GitHub</a>
+| <a href="www.linkedin.com/in/emberlee-thomas/">LinkedIn</a>
+| <a href="https://github.com/EmberleeThomas">GitHub</a>
 </div>
+
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
