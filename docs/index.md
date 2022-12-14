@@ -16,6 +16,7 @@ I believe that the defining moments in our lives come as we are faced with the m
 
 ## Education
 
+### Bachelor of Science in Accounting 
 `Spring 2024`\
 __Brigham Young University–Idaho__, Rexburg, ID
 
